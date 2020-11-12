@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "autoMobileFronEnd"
+    }
+  },
+  "defaultProject": "autoMobileFronEnd",
+  "cli": {
+    "analytics": false
+  }
 }
